@@ -2,24 +2,25 @@
 
 ## SLOconf22 Talks
 
-Fire & Rescue: Using SLO like objects in Emergency Services
+- Fire & Rescue: Using SLO like objects in Emergency Services
 
-FinSLOs: SLOifying Financial Data
+- FinSLOs: SLOifying Financial Data
 
-AstroSLOs: SLOs in Space? 
+- AstroSLOs: SLOs in Space? (thought under construction) 
 
-The Death of SLO: Is there a Lifecycle we are missing
+- The Death of SLO: Is there a Lifecycle we are missing
 
 ## SLOconf Global Captains
 
-Introduce the Global Captains.
+- Introduce the Global Captains.
 
-Advertize for more people to become captains
+- Advertize for more people to become captains
 
-Advertize for Global Sponsors
+- Advertize for Global Sponsors
 
 ## SLOconf22 Global Captains Panel
 
+Need to define the panel soon. 
 
 ## OutSystems @ SLOconf22
   
